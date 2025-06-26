@@ -1,4 +1,4 @@
-[![MasterHead](https://i.pinimg.com/originals/87/f3/f1/87f3f1425b217691da645e97dbb50d55.gif)]()
+[![MasterHead](https://64.media.tumblr.com/cca4f06484b447c0687f0325af5b38c9/428a8db1dc8ae92f-87/s1280x1920/7c751558b1d93e15c2d885cff2162ddb95059b8d.gifv)]()
 <h1 align="center">🦁 Emircan</h1>
 <h3 align="center">Passionate Computer Programming Student | Eager to Learn & Build</h3>
 
@@ -7,7 +7,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=emircanbastopcu" alt="emircanbastopcu" /></a> </p>
 
 
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/ba/78/6a/ba786a579e4d72ea1cf07d0be41dbc63.gif">
+<img align="right" alt="Coding" width="400" src="https://giffiles.alphacoders.com/215/215911.gif">
 
 
 - 🌱 I’m currently learning **C#**
