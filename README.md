@@ -1,10 +1,14 @@
-[![MasterHead]()]()
+[![MasterHead](https://i.pinimg.com/originals/87/f3/f1/87f3f1425b217691da645e97dbb50d55.gif)]()
 <h1 align="center">🦁 Emircan</h1>
 <h3 align="center">Passionate Computer Programming Student | Eager to Learn & Build</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emircanbastopcu&label=Profile%20views&color=0e75b6&style=flat" alt="emircanbastopcu" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=emircanbastopcu" alt="emircanbastopcu" /></a> </p>
+
+
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/ba/78/6a/ba786a579e4d72ea1cf07d0be41dbc63.gif">
+
 
 - 🌱 I’m currently learning **C#**
 
