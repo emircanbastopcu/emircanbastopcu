@@ -10,7 +10,7 @@
 <img align="right" alt="Coding" width="400" src="https://giffiles.alphacoders.com/215/215911.gif">
 
 
-- 🌱 I’m currently learning **C#**
+- 🌱 I’m currently learning **JS**
 
 - 📫 Email me at: [mustafa.emircan.532@gmail.com](mailto:mustafa.emircan.532@gmail.com)
 
