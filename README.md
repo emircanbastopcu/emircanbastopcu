@@ -6,7 +6,7 @@
 <h3 align="center">Passionate Computer Programming Student | Eager to Learn & Build</h3>
 
 <p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=emircanbastopcu&label=Profile%20views&color=0e75b6&style=flat" alt="emircanbastopcu" /> 
+  <img src="https://komarev.com/ghpvc/?username=emircanbastopcu&label=Profile%20views&color=d11124&style=flat" alt="emircanbastopcu" /> 
 </p>
 
 <hr>
@@ -39,10 +39,10 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=emircanbastopcu&show_icons=true&theme=dark&locale=en" alt="emircanbastopcu stats" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=emircanbastopcu&layout=compact&theme=dark&locale=en" alt="top languages" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=emircanbastopcu&show_icons=true&bg_color=0d0d0d&title_color=ffcc00&text_color=ffffff&icon_color=d11124&border_color=d11124&locale=en" alt="emircanbastopcu stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=emircanbastopcu&layout=compact&bg_color=0d0d0d&title_color=ffcc00&text_color=ffffff&border_color=d11124&locale=en" alt="top languages" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=emircanbastopcu&theme=dark" alt="emircanbastopcu streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=emircanbastopcu&background=0D0D0D&title=FFCC00&text=FFFFFF&currStreakLabel=FFCC00&currStreakNum=D11124&sideNums=FFFFFF&sideLabels=FFCC00&dates=888888&border=D11124&fire=D11124&ring=FFCC00" alt="emircanbastopcu streak" />
 </p>
