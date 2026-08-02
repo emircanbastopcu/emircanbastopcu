@@ -35,15 +35,10 @@
 
 <br clear="all" />
 <hr>
-
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=emircanbastopcu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="165" alt="emircanbastopcu stats"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=emircanbastopcu&theme=tokyonight&hide_border=true" height="180" />
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emircanbastopcu&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="top languages"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=emircanbastopcu&theme=tokyonight&hide_border=true" alt="emircanbastopcu streak" width="92%"/>
+  <img src="https://streak-stats.demolab.com/?user=emircanbastopcu&theme=tokyonight&hide_border=true" height="180" />
 </p>
