@@ -39,9 +39,6 @@
  📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=emircanbastopcu&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="trophies" />
-</p>
-
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=emircanbastopcu&theme=tokyonight&hide_border=true" width="90%" />
 </p>
