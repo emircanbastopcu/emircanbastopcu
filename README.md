@@ -39,10 +39,18 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=emircanbastopcu&show_icons=true&bg_color=0d0d0d&title_color=ffcc00&text_color=ffffff&icon_color=d11124&border_color=d11124&locale=en" alt="emircanbastopcu stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=emircanbastopcu&layout=compact&bg_color=0d0d0d&title_color=ffcc00&text_color=ffffff&border_color=d11124&locale=en" alt="top languages" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=emircanbastopcu&show_icons=true&count_private=true&bg_color=0d0d0d&title_color=ffcc00&text_color=ffffff&icon_color=d11124&border_color=d11124&locale=en&hide_border=false" alt="emircanbastopcu stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emircanbastopcu&layout=compact&bg_color=0d0d0d&title_color=ffcc00&text_color=ffffff&border_color=d11124&locale=en&hide_border=false" alt="top languages" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=emircanbastopcu&background=0D0D0D&title=FFCC00&text=FFFFFF&currStreakLabel=FFCC00&currStreakNum=D11124&sideNums=FFFFFF&sideLabels=FFCC00&dates=888888&border=D11124&fire=D11124&ring=FFCC00" alt="emircanbastopcu streak" />
+  <img src="https://streak-stats.demolab.com/?user=emircanbastopcu&background=0D0D0D&stroke=D11124&ring=FFCC00&fire=D11124&currStreakLabel=FFCC00&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=FFCC00&dates=888888&border=D11124" alt="emircanbastopcu streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=emircanbastopcu&bg_color=0d0d0d&color=ffcc00&line=d11124&point=ffffff&area=true&hide_border=true" alt="activity graph" width="90%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=emircanbastopcu&theme=darkhub&no-frame=true&column=7&margin-w=8&margin-h=8" alt="trophies"/>
 </p>
