@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">🦁 Emircan</h1>
-<h3 align="center">Passionate Computer Programming Student | Eager to Learn & Build</h3>
+<h3 align="center">Passionate Computer Programmer </h3>
 
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=emircanbastopcu&label=Profile%20views&color=d11124&style=flat" alt="emircanbastopcu" /> 
