@@ -13,7 +13,6 @@
 
 <img align="right" alt="Coding" width="380" src="https://giffiles.alphacoders.com/215/215911.gif">
 
-
 - 📫 Email me at: [mustafa.emircan.532@gmail.com](mailto:mustafa.emircan.532@gmail.com)
 
 ### 📬 Connect with me:
